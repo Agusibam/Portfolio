@@ -81,7 +81,7 @@ export function Techs(){
         pi: "Boostrap 5.1 and earlier versions. Sass and Sass React Styling.",
         },    
         {
-        img: "./app/aseets/img/Unofficialogo_2.svg", 
+        img: "./app/aseets/img/Unofficial_JavaScript_logo_2.svg", 
         alt:"JavasScript",
         type: "Front End",
         pi: "With specialization in SPAs and reactive component assembly. Understanding prototype based inheritance, prototype chain, prototype delegation/dynamic despache. Ajax and Fetch requests, Progressive Web Apps.",
