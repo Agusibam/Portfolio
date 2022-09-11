@@ -8,11 +8,11 @@ export function InglesBtn(){
     
     
     const $Argentina = d.createElement("img");
-    $Argentina.setAttribute("src", "/app/aseets/img/Flag_of_Argentina.svg");
+    $Argentina.setAttribute("src", "./app/aseets/img/Flag_of_Argentina.svg");
     $Argentina.setAttribute("class", "Argentina");
     
     const $Ingles = d.createElement("img");
-    $Ingles.setAttribute("src", "/app/aseets/img/Flag_of_the_United_States.svg");
+    $Ingles.setAttribute("src", "./app/aseets/img/Flag_of_the_United_States.svg");
     $Ingles.setAttribute("class", "Ingles");
     
     const $SwitchBtn = d.createElement("div");
