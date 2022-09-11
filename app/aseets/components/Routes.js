@@ -1,4 +1,4 @@
-import { Home } from "Portfolio/app/aseets/components/Home.js";
+import { Home } from "/Home.js";
 import { Techs } from "Portfolio/app/aseets/components/Techs.js";
 import { Proyects } from "Portfolio/app/aseets/components/Proyects.js";
 import { Contact } from "Portfolio/app/aseets/components/Contact.js";
