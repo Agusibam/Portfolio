@@ -12,7 +12,7 @@ export function Techs(){
     $TechImg.setAttribute("class", "tech-img");
 
     const $PrincipalImg = d.createElement("img");
-    $PrincipalImg.setAttribute("src", "./app/aseets/img/Unofficial_JavaScript_logo_2.svg");
+    $PrincipalImg.setAttribute("src", "./app/aseets/img/pug.svg");
     
     
     const $TechInfo = d.createElement("div");
@@ -60,21 +60,21 @@ export function Techs(){
 
     let technologias =[
         {
-        img:"../img/HTML5_logo_resized.svg ", 
+        img:"./app/aseets/img/HTML5_logo_resized.svg ", 
         alt: "HTML",
         type: "Variables",
         p: " HTML5, Estructuras WEB básicas, etiquetas de búsqueda, SEO.",
         pi: " HTML5, basic WEB structures, search tags, SEO.",
         },
         {    
-        img: "../img/CSS3_logo_and_wordmark.svg",
+        img: "./app/aseets/img/CSS3_logo_and_wordmark.svg",
         alt: "CSS",
         type: "Designe",
         p: "CSS artesanal, animaciones, filtros, media querys.",
         pi: "Handcrafted CSS, animations, filters, media querys.",
         },  
         {
-        img:"../img/Bootstrap_logo.svg",
+        img:"./app/aseets/img/Bootstrap_logo.svg",
         alt: "Boostrap y Sass",
         type: "Designe",
         p: "Boostrap 5.1 y versiones anteriores. Sass y  Sass React Styling.",
@@ -109,56 +109,56 @@ export function Techs(){
         pi: " NPM management, NoSQ databases, global modules, Debuggers, promises, Websockets, Socket.IO, VPS, Production deployment.",
         },
         {
-        img : ".././express-109.svg", 
+        img : "./app/aseets/img/express-109.svg", 
         alt: "Express",
         type: "BackEnd",
         p: " Middlewares, Templates Engines, Pug, Ghost, API Rest, API Crud.",
         pi: " Middlewares, Templates Engines, Pug, Ghost, API Rest, API Crud,",
         },
         {
-        img : "../git-icon.svg" ,
+        img : "./app/aseets/img/git-icon.svg" ,
         alt: "Git y GitHub",
         type: "Variables",
         p: "Controlador de versiones, revisión de repositorios, conocimientos de la red social.",
         pi: "Version controller, repository review, social network knowledge",
         },
         {
-        img:"/app/aseets/img/figma.svg",
+        img:"./app/aseets/img/figma.svg",
         alt: "Figma",
         type: "Designe",
         p: "Manejo de plugins como Contrat, Content Reel, Find and Replace, Instance Finder, Rename It.",
         pi: "Plugin management like Contrat, Content Reel, Find and Replace, Instance Finder, Rename It",
         },
         {
-        img:"/app/aseets/img/webpack-icon.svg",
+        img:"./app/aseets/img/webpack-icon.svg",
         alt: "Webpack",
         type: "BackEnd",
         p: " ",
         pi: " ",
         },
         {
-        img:"/app/aseets/img/svelte-svgrepo-com.svg",
+        img:"./app/aseets/img/svelte-svgrepo-com.svg",
         alt: "Svelte",
         type: "Front End",
         p: " Variables reactivas, enlaces bidireccionales, declaraciones, actualización de matrices, eventos personalizados, verificación vinculante, validación de formularios, Http de Svelt.",
         pi: "Reactive variables, bidirectional bindings, declarations, array update, custom events, binding verification, form validation, Svelt's Http.",
         },
         {
-        img:"/app/aseets/img/mongodb.svg",
+        img:"./app/aseets/img/mongodb.svg",
         alt: "MongoDB",
         type: "BackEnd",
         p: " Línea de Comandos, API REST.",
         pi: " Command Line, REST API",
         },
         {
-        img:"/app/aseets/img/typescript.svg",
+        img:"./app/aseets/img/typescript.svg",
         alt: "TypeScript",
         type: "Front End",
         p: " Conocimientos básicos de qué trata el tipado en TypeScript.",
         pi: " Basic knowledge of what TypeScript typing is all about",
         },
         {
-        img:"/app/aseets/img/Adobe_Illustrator_CC_icon.svg",
+        img:"./app/aseets/img/Adobe_Illustrator_CC_icon.svg",
         alt: "Illustrator",
         type: "Designe",
         p: "Four years of experience using the tool.",
