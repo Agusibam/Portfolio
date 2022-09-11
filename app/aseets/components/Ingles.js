@@ -52,13 +52,12 @@ export function InglesBtn(){
         ls.removeItem('language')
         ls.setItem('language', 'ingles')
         $SwitchBtn.classList.replace("arg", "ing")
-    //     console.log(ls.getItem("language"))
         location. reload()
      }
 
 
     }
-    //div.classList.replace("foo", "bar");
+    
     $CircleBtn.addEventListener("click", apear)
 
     
