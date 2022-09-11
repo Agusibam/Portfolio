@@ -1,4 +1,4 @@
-import { Span } from "Portfolio/app/aseets/components/aseets/components/Span.js";
+import { Span } from "/Span.js";
 
 export function Nav(){
 
