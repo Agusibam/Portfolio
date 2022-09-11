@@ -7,7 +7,7 @@ export function Contact(){
     $Contact.setAttribute("id", "Contact");
 
     const $form = d.createElement("form");
-    $form.setAttribute("action", "https://formsubmit.co/agustinibam@gmail.com");
+    $form.setAttribute("action", "https://formsubmit.co/0c324304415f3cfe0b2f311c0fe9f10c");
     $form.setAttribute("target", "_blank");
     $form.setAttribute("method", "POST");
 
