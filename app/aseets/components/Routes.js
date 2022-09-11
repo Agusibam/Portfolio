@@ -1,8 +1,8 @@
-import { Home } from "/app/aseets/components/Home.js";
-import { Techs } from "/app/aseets/components/Techs.js";
-import { Proyects } from "/app/aseets/components/Proyects.js";
-import { Contact } from "/app/aseets/components/contact.js";
-import { AboutMe } from "/app/aseets/components/AboutMe.js";
+import { Home } from "./aseets/components/Home.js";
+import { Techs } from "./aseets/components/Techs.js";
+import { Proyects } from "./aseets/components/Proyects.js";
+import { Contact } from "./aseets/components/contact.js";
+import { AboutMe } from "./aseets/components/AboutMe.js";
 
 
 const Router = (route) =>{
