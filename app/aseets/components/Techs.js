@@ -12,7 +12,7 @@ export function Techs(){
     $TechImg.setAttribute("class", "tech-img");
 
     const $PrincipalImg = d.createElement("img");
-    $PrincipalImg.setAttribute("src", "/app/aseets/img/pug.svg");
+    $PrincipalImg.setAttribute("src", "Portfolio/app/aseets/img/pug.svg");
     
     
     const $TechInfo = d.createElement("div");
