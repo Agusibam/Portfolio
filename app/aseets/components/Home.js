@@ -15,17 +15,17 @@ export function Home(){
 
     $Hi.innerHTML = `
             <h1 class="WelcomeH1">Hola!</h1>
-            <p class="WelcomeP">Soy Agustín y soy developer</p>`;
+            <p class="WelcomeP">Soy Agustín y soy Developer</p>`;
 
     $WelcomeText.innerHTML = 
-            `<p>Bienvenidos a mi SPA Portfolio. Acá encontrarás mis Skills, proyectos y métodos de solicitar una entrevista.</p>`
+            `<p>Bienvenidos a mi Portfolio SPA. Acá encontrarás mis Skills, proyectos y formas de solicitar una entrevista.</p>`
     
     
 
     if(localStorage.getItem("language")==="ingles"){
         $Hi.innerHTML = `
                 <h1 class="WelcomeH1">Hi!</h1>
-                <p class="WelcomeP">I´m Agustín and i´m developer</p>`;
+                <p class="WelcomeP">I´m Agustín and i´m Developer</p>`;
         $WelcomeText.innerHTML =`
                 <p>Welcome to my SPA Portfolio. Here you will find my Skills, projects and methods to request an interview.</p>`;
 
