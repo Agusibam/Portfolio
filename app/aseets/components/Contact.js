@@ -46,7 +46,7 @@ export function Contact(){
 
 
     const $GithubImg = d.createElement("img");
-    $GithubImg.setAttribute("src", "/app/aseets/img/github-icon-1.svg");
+    $GithubImg.setAttribute("src", "./app/aseets/img/github-icon-1.svg");
 
     const $LinkedIn = d.createElement("a");
     $LinkedIn.setAttribute("class", "Contact");
@@ -55,7 +55,7 @@ export function Contact(){
 
 
     const $LinkedInImg = d.createElement("img");
-    $LinkedInImg.setAttribute("src", "/app/aseets/img/linkedin-svgrepo-com (1).svg");
+    $LinkedInImg.setAttribute("src", "./app/aseets/img/linkedin-svgrepo-com (1).svg");
 
     const $StackOver = d.createElement("a");
     $StackOver.setAttribute("class", "Contact");
@@ -64,7 +64,7 @@ export function Contact(){
 
 
     const $StackOverImg = d.createElement("img");
-    $StackOverImg.setAttribute("src", "/app/aseets/img/stack-overflow.svg");
+    $StackOverImg.setAttribute("src", "./app/aseets/img/stack-overflow.svg");
     
 
     $form.appendChild($Input1)
