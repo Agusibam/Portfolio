@@ -2,32 +2,24 @@ export function AboutMe(){
 
     const d = document;
     const $box= d.querySelector(`#box`);
-
-
     
-        
     const $div = d.createElement("div");
     $div.setAttribute("class", "principal-about");
     $div.setAttribute("id", "principal-about");
     const $divNod = d.querySelector("#div")
-    
-    
-    
+   
     const $Polaroid = d.createElement("div");
     $Polaroid.setAttribute("class", "polaroid");
     $Polaroid.setAttribute("id", "polaroid");
     const $PolaroidNod = d.querySelector("#polaroid")
     
-    
-
     $div.appendChild($Polaroid)
 
     const $FotoCv = d.createElement("img");
-    $FotoCv.setAttribute("src", "/app/aseets/img/cvph.jpeg");
+    $FotoCv.setAttribute("src", "./app/aseets/img/cvph.jpeg");
     $FotoCv.setAttribute("id", "FotoCV");
     const $FotoCvNod = d.querySelector("#FotoCV")
-    
-
+   
     $Polaroid.appendChild($FotoCv)
     
     const $AboutDescript = d.createElement("p");
