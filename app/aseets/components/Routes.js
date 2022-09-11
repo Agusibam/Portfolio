@@ -1,8 +1,9 @@
-import { Home } from "/Home.js";
-import { Techs } from "Portfolio/app/aseets/components/Techs.js";
-import { Proyects } from "Portfolio/app/aseets/components/Proyects.js";
-import { Contact } from "Portfolio/app/aseets/components/Contact.js";
-import { AboutMe } from "Portfolio/app/aseets/components/AboutMe.js";
+import { Home } from "./Home.js";
+import { Techs } from "./Techs.js";
+import { Proyects } from "./Proyects.js";
+import { Contact } from "./Contact.js";
+import { AboutMe } from "./AboutMe.js";
+
 
 
 const Router = (route) =>{
