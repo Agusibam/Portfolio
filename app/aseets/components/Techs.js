@@ -81,14 +81,14 @@ export function Techs(){
         pi: "Boostrap 5.1 and earlier versions. Sass and Sass React Styling.",
         },    
         {
-        img: "/app/aseets/img/Unofficial_JavaScript_logo_2.svg", 
+        img: "./app/aseets/img/Unofficial_JavaScript_logo_2.svg", 
         alt:"JavasScript",
         type: "Front End",
         pi: "With specialization in SPAs and reactive component assembly. Understanding prototype based inheritance, prototype chain, prototype delegation/dynamic despache. Ajax and Fetch requests, Progressive Web Apps.",
         p: "Con especialización en SPAs y el armado de componentes reactivos. Entender la herencia basada en prototipos, la cadena de prototipos, la delegación de prototipos/despache dinámico. Peticiones Ajax y Fetch, Progressive Web Apps",
         },
         {
-        img: "../img/React-icon.svg" ,
+        img: "./app/aseets/img/React-icon.svg" ,
         alt: "React",
         type: "Front End",
         p: "REAC ipsum dolor sit amet consectetur adipisicing elit. Animi, minima recusandae quo ex cum quam nesciunt quibusdam sequi! Porro, incidunt deserunt ipsam corrupti eum dicta natus rem necessitatibus repellat eni.",
@@ -102,7 +102,7 @@ export function Techs(){
         pi: "",
         },
         {
-        img: "../aseets/img/nodejs-1-logo-svgrepo-com.svg" ,
+        img: "./app/aseets/img/nodejs-1-logo-svgrepo-com.svg" ,
         alt: "Node",
         type: "BackEnd",
         p: " Manejo de NPM, bases de Datos de Tipo NoSQ, módulos globales, Debuggers, promesas, Websockets, Socket.IO, VPS, despliegue en Producción.",
