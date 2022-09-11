@@ -60,7 +60,7 @@ export function Techs(){
 
     let technologias =[
         {
-        img:"./app/aseets/img/HTML5_logo_resized.svg ", 
+        img:"/app/aseets/img/HTML5_logo_resized.svg ", 
         alt: "HTML",
         type: "Variables",
         p: " HTML5, Estructuras WEB básicas, etiquetas de búsqueda, SEO.",
