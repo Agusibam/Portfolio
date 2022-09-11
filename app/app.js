@@ -1,7 +1,7 @@
 import { Box } from "./aseets/components/Box.js";
 import { Nav } from "./aseets/components/Nav.js";
 import { InglesBtn } from "./aseets/components/Ingles.js";
-import { Router } from "/app/aseets/components/Routes.js";
+import { Router } from "./aseets/components/Routes.js";
 
 
 export function App(){
