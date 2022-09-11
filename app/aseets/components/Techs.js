@@ -88,7 +88,7 @@ export function Techs(){
         p: "Con especialización en SPAs y el armado de componentes reactivos. Entender la herencia basada en prototipos, la cadena de prototipos, la delegación de prototipos/despache dinámico. Peticiones Ajax y Fetch, Progressive Web Apps",
         },
         {
-        img: "./app/aseets/img/React-icon.svg" ,
+        img: "./app/aseets/img/jest-2.svg" ,
         alt: "React",
         type: "Front End",
         p: "REAC ipsum dolor sit amet consectetur adipisicing elit. Animi, minima recusandae quo ex cum quam nesciunt quibusdam sequi! Porro, incidunt deserunt ipsam corrupti eum dicta natus rem necessitatibus repellat eni.",
