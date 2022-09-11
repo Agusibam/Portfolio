@@ -92,7 +92,7 @@ export function Contact(){
     $RedLinksFragment.appendChild($RedLinks)
 
     if(localStorage.getItem("language")==="ingles"){
-        $TextArea.setAttribute("placeholder", "information")
+        $TextArea.setAttribute("placeholder", "Information")
         $Input1.setAttribute("placeholder", "Name")
         $Input3.setAttribute("value", "Contact me")
     }
