@@ -37,7 +37,8 @@ export function AboutMe(){
     $AboutDescript2.setAttribute("class", "displayNone");
     $AboutDescript2.setAttribute("id", "text-descrip2");
     $AboutDescript2.innerHTML= 
-    `Trabajé durante seis meses como asistente traductor para la empresa alemana SSI Schaefer realizando tareas de de traducción de campo y documentación
+    `Soy aficionado a la tecnología desde que soy chico. Diseño desde los diescisiete años y aprendí JavaScript por hobby en 2020.
+    <br><br>Trabajé durante seis meses como asistente traductor para la empresa alemana SSI Schaefer realizando tareas de de traducción de campo y documentación
     <br><br> Realizo trabajos de diseño gráfico y actualmente trabajo como Data entry para un concesionario de la marca Volkswagen
     <br><br> Actualmente estoy realizando un curso de Swift en Udemy`
     const $AboutDescript2Nod = d.querySelector("#text-descrip2")
@@ -59,7 +60,8 @@ export function AboutMe(){
         <br><br>I studied two years of Systems Engineering and I have a B2 certificate from the British Council. My specialty is Vanilla JavaScript and SCRUM methodology. 
         Today I am looking for job offers to join a team where I can contribute ideas to further develop and optimize within the area. ` 
         $AboutDescript2.innerHTML= 
-        `I worked for six months as an assistant translator for the German company SSI Schaefer, performing field translation and documentation tasks.
+        `I've been a technology buff since I was a kid. I've been designing since I was seventeen and learned JavaScript as a hobby in 2020.
+        <br><br> I worked for six months as an assistant translator for the German company SSI Schaefer, performing field translation and documentation tasks.
         <br><br> I do graphic design work and currently work as a data entry for a Volkswagen dealership.
         <br><br>I'm currently taking a Swift course on Udemy.`
     }
