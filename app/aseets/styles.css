@@ -1810,7 +1810,7 @@ height: 70px;
         text-align:center;
         font-size: 0.65em;
         overflow-y: auto;
-        line-height: 13px;
+        line-height: 10px;
         color: rgba(255, 255, 255, 0.97);
         text-shadow: rgb(41, 41, 41) 18px 1px 15px;
     }
