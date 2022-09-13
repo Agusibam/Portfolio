@@ -29,7 +29,7 @@ export function AboutMe(){
     `Soy un desarrollador web Full Stack listo para el presente y el futuro mundo IT.
     <br><br>Soy fiel creyente de nunca limitar mi curva de aprendizaje, del código limpio y minimalista y siempre estar en la búsqueda de aplicar las mejores prácticas. 
     <br><br> Cursé dos años la carrera de Ingeniería en sistemas y tengo certificado B2 del British Council. Mi fuerte es JavaScript Vainilla y la metodología SCRUM. 
-    <br><br>Hoy estoy mirando ofertas laborales para sumarme a un equipo de trabajo donde pueda aportar ideas para seguir desarrollando y optimizando dentro del área. `
+    <br><br>Actualmente me encuentro al pendiente de ofertas laborales para sumarme a un equipo de trabajo donde pueda aportar ideas para seguir desarrollando y optimizando dentro del área. `
     
     const $AboutDescriptNod = d.querySelector("#text-descrip")
 
@@ -40,7 +40,7 @@ export function AboutMe(){
     `Soy aficionado a la tecnología desde que soy chico. Diseño desde los diescisiete años y aprendí JavaScript por hobby en 2020.
     <br><br>Trabajé durante seis meses como asistente traductor para la empresa alemana SSI Schaefer realizando tareas de de traducción de campo y documentación
     <br><br> Realizo trabajos de diseño gráfico y actualmente trabajo como Data entry para un concesionario de la marca Volkswagen
-    <br><br> Actualmente estoy realizando un curso de Swift en Udemy`
+    <br><br> En estos momentos estoy realizando un curso de Swift en Udemy`
     const $AboutDescript2Nod = d.querySelector("#text-descrip2")
 
     const $left = d.createElement("i");
