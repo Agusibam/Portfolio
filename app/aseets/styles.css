@@ -1801,14 +1801,14 @@ height: 70px;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 20em;
-        height: 25em;
+        width: 18em;
+        height: 23em;
         color: #fbffcd;
         margin: 0%;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         /* font-variant: small-caps; */
         text-align:center;
-        font-size: 0.6em;
+        font-size: 0.57em;
         overflow-y: auto;
         line-height: 10px;
         color: rgba(255, 255, 255, 0.97);
@@ -1816,8 +1816,8 @@ height: 70px;
     }
     
     .polaroid {
-        height: 14em;
-        width: 12em;
+        height: 12em;
+        width: 10em;
         background-color: #e9e9e9;
         box-sizing: border-box;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -1826,8 +1826,8 @@ height: 70px;
         margin: 10px;
     }
     .polaroid img{
-        height: 12.5em;
-        width: 11em;
+        height: 10.5em;
+        width: 9em;
        margin-top: 3%;
        filter: brightness();
     }
