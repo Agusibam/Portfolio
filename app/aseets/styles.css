@@ -1708,22 +1708,18 @@ height: 70px;
   background-color: #fbffcd;
   border-radius: 90%;
 }
-.leftarrow{
-    width: 5%;
-    height: 15%;
-    margin-left: 50px;
-    display: none;
-}
-
-.leftarrow:hover{
-    display: none;
-}
-.rightarrow{
-    width: 5%;
-    height: 15%;
-    display: none;
-}
-
+#principal-about .fa-chevron-left{
+    position: absolute;
+    left: 0.2em;
+    top: 70%;
+    margin: 0;
+ }
+ #principal-about .fa-chevron-right{
+    position: absolute;
+    right: 0.6em;
+    top: 70%;
+    margin: 0;
+    }
 }
 
 @media screen and (max-width: 375px) and (max-height: 667px) {
