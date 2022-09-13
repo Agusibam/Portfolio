@@ -1829,5 +1829,20 @@ height: 70px;
        margin-top: 3%;
        filter: brightness();
     }
+    .BotonIngles{
+        position:absolute;
+        top: 2;
+        left: 0;
+        right: 0;
+       background-color: #726659;
+        width: 40%;
+        height: 7%;
+        display: inline-flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        justify-content: flex-start;
+        justify-content: space-between;
+    }
     
 }
