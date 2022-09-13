@@ -55,10 +55,8 @@ export function AboutMe(){
         `I am a Full Stack web developer ready for the present and future IT world.
         <br><br> I am a true believer in never limiting my learning curve, clean and minimalist code and always looking to apply best practices. 
         <br><br> I studied two years of Systems Engineering and I have a B2 certificate from the British Council. My forte is Vanilla JavaScript and SCRUM methodology. 
-        Today I am looking for job offers to join a team where I can contribute ideas to further develop and optimize within the area. I am a Full Stack web developer ready for the present and future IT world.
-        <br><br>I am a true believer of never limiting my learning curve, of clean and minimalist code and always be in search of applying best practices. 
-        <br><br>I studied two years of Systems Engineering and I have a B2 certificate from the British Council. My specialty is Vanilla JavaScript and SCRUM methodology. 
-        Today I am looking for job offers to join a team where I can contribute ideas to further develop and optimize within the area. ` 
+        Today I am looking for job offers to join a team where I can contribute ideas to further develop and optimize within the area.
+         ` 
         $AboutDescript2.innerHTML= 
         `I've been a technology buff since I was a kid. I've been designing since I was seventeen and learned JavaScript as a hobby in 2020.
         <br><br> I worked for six months as an assistant translator for the German company SSI Schaefer, performing field translation and documentation tasks.
