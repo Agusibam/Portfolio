@@ -1661,7 +1661,7 @@ height: 70px;
 .BotonIngles{
     position:absolute;
     top: 2;
-    left: 6;
+    left: 0;
     right: 0;
     margin: auto;
     width: 100px;
